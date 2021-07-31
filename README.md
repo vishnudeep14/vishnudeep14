@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishnudeep_14
 - 👀 I’m interested in ...
-        I would like to contribute to open-source projects in areas of my interest, which are currently data science and Qauntum computing. 
-        This is not only a great wayto upgrade  my skills, but also a way for me to push my field of interest forward.
+        I would like to contribute to open-source projects in areas of my interest, which are currently data science and Quantum computing. 
+        This is not only a great way to upgrade  my skills, but also a way for me to push my field of interest forward.
 - 🌱 I’m currently learning ...
        
 - 💞️ I’m looking to collaborate on ...
